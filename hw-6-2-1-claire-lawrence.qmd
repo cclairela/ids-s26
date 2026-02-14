@@ -1,0 +1,13 @@
+## Install Required Software
+
+### Git
+Used to track file changes and collaborate.
+
+### Python
+Needed to run code in the class notes.
+
+### Quarto
+Used to render the class notes.
+
+### VS Code
+Used to edit files.
