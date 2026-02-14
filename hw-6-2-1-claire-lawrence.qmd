@@ -25,3 +25,11 @@ Used to edit files.
 3. Install requirements using pip install -r requirements.txt.
 4. Run quarto render.
 5. Open the generated files to check output.
+
+## Troubleshooting
+
+- If git is not recognized: install Git and restart the terminal.
+- If python is not recognized: reinstall Python and check “Add Python to PATH.”
+- If quarto is not recognized: reinstall Quarto and restart the terminal.
+- If pip install fails: make sure the virtual environment is activated first.
+- If quarto render fails: read the error message and install missing packages, then try again.
