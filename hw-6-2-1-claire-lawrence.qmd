@@ -17,3 +17,11 @@ Used to edit files.
 1. Fork the class repo on GitHub.
 2. Clone the fork to the computer using git clone.
 3. Navigate into the repository folder.
+
+## Render Class Notes
+
+1. Create a virtual environment.
+2. Activate the environment.
+3. Install requirements using pip install -r requirements.txt.
+4. Run quarto render.
+5. Open the generated files to check output.
