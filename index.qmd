@@ -187,6 +187,9 @@ Markdown.
     - Be able to work with real-world data sets for future results
     - Gain experience using data sets for sports analytics
 + Lawrence, Claire
+    - Become more comfortable coding in Python
+    - Learn to use Git and Github to collaborate with peers
+    - Work on a project from start to finish using real datasets and topics that interest me
 + Liu, Kevin
     - Use git better in a collobrative environment and more complex commands
     - Apply data analysis to translate data to real-world results
